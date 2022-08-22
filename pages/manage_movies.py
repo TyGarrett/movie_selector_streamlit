@@ -1,5 +1,4 @@
 import streamlit as st
-from google.cloud import firestore
 
 from util import add_user, add_movie, get_users, get_movies, delete_user, delete_movie, get_db
 

@@ -1,6 +1,5 @@
 import random
 import streamlit as st
-from google.cloud import firestore
 
 from util import get_users, get_movies, get_db
 
